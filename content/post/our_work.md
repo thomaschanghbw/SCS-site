@@ -1,0 +1,13 @@
++++
+tags = [
+]
+weight = 50
+type = "post"
+date = "2016-12-14T21:22:44-08:00"
+title = "Our Work"
+class="post last"
+
++++
+ Shirley Chang's Services is tasked with formulating a personalized budget for each client. We allocate, depending on income, funds for groceries, paying rent, possible emergencies, bills, and spending money for each person. 
+
+Our company supports well over 100 clients, all of which are having their money balanced so that they can function normally without having to worry about money management. To know more about how our company is run, call us and set up an appointment through phone or in person.

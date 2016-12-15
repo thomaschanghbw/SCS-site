@@ -1,5 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "Shirley Chang's Services, LLC"
+baseurl = "http://shirleychangsservices.com/"
+title = ""
 languageCode = "en-us"
 theme="hugoscroll"
 MetaDataFormat = "toml"
@@ -7,15 +7,15 @@ MetaDataFormat = "toml"
 copyright = "© 2016 Shirley Chang's Services, LLC"
 [params]
 [Params]
-  github = "Senjindarashiva"
-  bitbucket = "floch"
-  flickr = "senjin"
-  twitter = "senjindarshiva"
-  email = "fredrik.loch@outlook.com"
-  description = ""
-  linkedin = "fredrikloch"
-  cover = "/images/background-cover.jpg"
-  logo = "/img/logo-1.jpg"
+#  github = "Senjindarashiva"
+ # bitbucket = "floch"
+ # flickr = "senjin"
+ # twitter = "senjindarshiva"
+  email = "moneytotherescue@netzero.net"
+ # description = ""
+ # linkedin = "fredrikloch"
+ # cover = "/images/background-cover.jpg"
+#  logo = "/img/logo-1.jpg"
 
 
 [permalinks]

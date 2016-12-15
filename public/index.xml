@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirley Chang&#39;s Services, LLC</title>
+    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
+    <description>Recent content on Shirley Chang&#39;s Services, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016 Shirley Chang&#39;s Services, LLC</copyright>
+    <lastBuildDate>Wed, 14 Dec 2016 20:06:25 -0800</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/intro/</link>
+      <pubDate>Wed, 14 Dec 2016 20:06:25 -0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/intro/</guid>
+      <description>&lt;p&gt;Shirley Chang&amp;rsquo;s Services has been providing high quality to service in the field of money management for several years. We help adults with disabilities and others who just need a little assistance in managing their money. We are a dedicated company that works personally with clients to offer the best service possible. Feel free to browse this website to see exactly what we are about and how we can assist you or someone you know in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

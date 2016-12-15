@@ -1,13 +1,33 @@
 +++
 class = "post first"
 date = "2016-12-14T20:06:25-08:00"
-title = "intro"
+title = "About"
 tags = [
 ]
 weight = 1
 type = "post"
-class="post first"
+
 
 +++
 
-fdasf asdjf lasjlf jas;
+Shirley Chang's Services has been providing high quality to service in the field of money management for several years. We help adults with disabilities and others who just need a little assistance in managing their money. We are a dedicated company that works personally with clients to offer the best service possible. Feel free to browse this website to see exactly what we are about and how we can assist you or someone you know in the future.
+
++++
+tags = [
+]
+weight = 2
+type = "post"
+date = "2016-12-14T21:22:44-08:00"
+title = "Our Work"
+class="post last"
++++
+
+QUALITY, INTEGRITY, EXCELLENCE
+Shirley Chang's Services is tasked with formulating a personalized budget for each client. We allocate, depending on income, \
+funds for groceries, paying rent, possible emergencies, bills, and spending money for each person.
+
+A CONTINUING TRACK RECORD
+Our company supports well over 100 clients, all of which are having their money balanced so that they can function normally w\
+ithout having to worry about money management. To know more about how our company is run, call us and set up an appointment t\
+hrough phone or in person.
+
